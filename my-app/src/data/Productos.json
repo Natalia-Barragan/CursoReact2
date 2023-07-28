@@ -1,0 +1,26 @@
+[
+    {
+        "imagen": "fotos/conjuntobebe.jpeg",
+        "id": 1,
+        "tipo": "Conjunto bebe plush",
+        "precio": 2900
+    },
+    {
+        "imagen": "fotos/cubosensorial.jpeg",
+        "id": 2,
+        "tipo": "Cubo sensorial",
+        "precio": 1500
+    },
+    {
+        "imagen": "fotos/gimnasiomont.jpeg",
+        "id": 3,
+        "tipo": "Gimnasio montessori",
+        "precio": 4500
+    },
+    {
+        "imagen": "fotos/babero.jpeg",
+        "id": 4,
+        "tipo": "Babero pechera",
+        "precio": 1400
+    }
+]
